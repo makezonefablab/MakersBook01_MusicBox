@@ -1,7 +1,7 @@
 # MakersBook01_MusicBox
 ==========================
 
-![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_MusicBox/master/img/main.JPG)  
+![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_MusicBox/master/img/main.png)  
 
 소개
 --------------
